@@ -20,8 +20,6 @@
 
 🔭 Looking for a role starting **January 2027** in data analytics, business intelligence, or programming, with a strong interest in **Power BI development, data analysis, big data analytics, and AI/ML**.
 
-HIHIHIHIHI
-
 ---
 
 ### Tech stack
